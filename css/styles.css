@@ -1,9 +1,6 @@
 /* цвет заголовков #212121*/
-
 /* цвет основного текста #757575 */
-
 /* белый цвет текста #FFFFFF */
-
 /* акцент #2196F3 */
 /* основной цвет фона #E5E5E5 */
 /* вторичный цвет фона #F5F4FA */
@@ -12,15 +9,19 @@
     --primary-text-color:#757575;
     --title-text-color:#212121;
     --accent-color:#2196F3;
-    --accent-color-second:#FFFFFF;
+    --second-accent-color: #ffffff;
+    
+    --primary-bg-color:#E5E5E5;
+    --accent-bg-color:#2F303A;
+    --first-bg-color: #F5F4FA;
+    --second-bg-color: #FFFFFF;
 
 }
 
 .body {
-    background-color: #E5E5E5;
+    background-color: var(--primary-bg-color);
     color: var (--title-text-color);
 }
-
 .list {
     list-style: none;
 }
