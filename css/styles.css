@@ -69,3 +69,8 @@
     color: var(--second-accent-color);
     background-color:var(--accent-color) ;
 }
+.button.primary:hover,
+.button.primary:focus {
+    color: var(--title-text-color);
+    background-color:var(--first-bg-color) ;
+}
