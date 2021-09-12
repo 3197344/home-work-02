@@ -18,15 +18,12 @@
 
 .body {
     background-color: #E5E5E5;
-    color: #757575;
+    color: var (--title-text-color);
 }
 
 .list {
     list-style: none;
 }
-
-
-
 
 /* site-nav */
 .logo-all {
