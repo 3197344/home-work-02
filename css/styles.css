@@ -93,6 +93,7 @@ body {
 .button.secondary {
     color: var(--title-text-color);
     background-color:var(--first-bg-color) ;
+    border: none;
 }
 .button.secondary:hover,
 .button.secondary:focus {
