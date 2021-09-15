@@ -104,9 +104,8 @@ body {
     color: var(--title-text-color);
     background-color:var(--first-bg-color) ;
 }
-/* font-style: normal */
 
-/* Особенности */
+/* -------------Особенности------------- */
 .feature-title {
 color: var(--title-text-color);
 font-weight: bold;
@@ -115,8 +114,8 @@ line-height: 1.14;
 text-transform: uppercase;
 }
 
-/* Наша команда */
-/* .command */
+/* -----------------Наша команда----------------- */
+
 .command-title {
     color: var(--title-text-color);
     font-weight: 500;
@@ -132,7 +131,7 @@ text-transform: uppercase;
     text-align: center;
 }
 
-/* Футер */
+/*---------------- Футер------------------ */
 .about-address {
     font-style: normal;
    }
