@@ -94,6 +94,7 @@ body {
     color: var(--title-text-color);
     background-color:var(--first-bg-color) ;
     border: none;
+    cursor:pointer;
 }
 .button.secondary:hover,
 .button.secondary:focus {
