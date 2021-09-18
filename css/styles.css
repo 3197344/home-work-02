@@ -103,6 +103,7 @@ body {
 }
 
 .button.primary {
+  font-family: Roboto, sans-serif;
   color: var(--second-accent-color);
   background-color: var(--accent-color);
   font-weight: 700;
@@ -229,6 +230,7 @@ body {
   letter-spacing: 0.03em;
 }
 .button.secondary {
+  font-family: Roboto, sans-serif;
   color: var(--title-text-color);
   background-color: var(--first-bg-color);
   border: none;
